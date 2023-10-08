@@ -4,11 +4,11 @@ def add_numbers(a, b):
     return a + b
 
 # Missing colon
-if True
+if True:
     print("This if statement has a syntax error")
 
 # Undefined variable
-result = multiply_numbers(3, 4)
+# result = multiply_numbers(3, 4)
 
 # Unused variable
 unused_variable = "I am not used"
