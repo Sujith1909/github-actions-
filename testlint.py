@@ -7,7 +7,7 @@ number = random.randint(1, 20)
 print(f"Well, {name}, I am thinking of a number between 1 and 20.")
 
 ununsed_variable = 'sujith'
-
+notsuingas213123124413242asdasfasdasfasfqwe2131235r231242312c = 2
 while guesses_made < 6:
     guess = int(input("Take a guess: "))
     guesses_made += 1
